@@ -1,0 +1,26 @@
+ul { padding: 0; }
+
+li { 
+	list-style: none;
+	padding: 10px 20px;
+	font-family: sans-serif;
+}
+
+li:nth-child(1) { background-color: #FF0000; }
+li:nth-child(2) { background-color: #FF7F00; }
+li:nth-child(3) { background-color: #FFFF00; }
+li:nth-child(4) { background-color: #00FF00; }
+li:nth-child(5) { background-color: #0000FF; }
+li:nth-child(6) { background-color: #4B0082; }
+li:nth-child(7) { background-color: #8F00FF; }
+
+.rainbow-container { 
+	background-color: #d3d3d3; 
+	padding: 10px;
+}
+
+.title-container {
+	background-color: #a9a9a9;
+	padding: 10px 20px;
+	font-family: sans-serif;
+}
