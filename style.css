@@ -4,7 +4,14 @@ li {
 	list-style: none;
 	padding: 10px 20px;
 	font-family: sans-serif;
+	margin-bottom: 10px;
 }
+
+li span {
+	float: right;
+}
+
+h1 { text-align: center; }
 
 li:nth-child(1) { background-color: #FF0000; }
 li:nth-child(2) { background-color: #FF7F00; }
